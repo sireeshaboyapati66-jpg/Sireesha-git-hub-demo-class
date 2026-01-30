@@ -1,1 +1,1 @@
-# Sireesha-git-hub-demo-class. It is a demo repository by Sireesha Boyapati
+It is a demo repository by Sireesha Boyapati
